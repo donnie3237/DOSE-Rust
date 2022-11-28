@@ -26,15 +26,5 @@ fn Sec_str() {
     println!("1=Fine : 2=good : 3=bad");
     println!("How are you Today?");
     std::io::stdin().read_line(&mut fine).unwrap();
-    fn choose() {
-        if fine==1 {
-            println!("this world is beautiful");
-        }else if fine==2 {
-            println!("Hi")
-        }else if fine ==3 {
-            println!("Hey")
-        }else {
-            println!("3")
-        }
-    }
+   
   }
