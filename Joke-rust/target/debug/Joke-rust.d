@@ -1,1 +1,1 @@
-C:\Users\acer\OneDrive\เอกสาร\GitHub\DOSE-Rust-Arduino-ML-Back-end\joke-rust\target\debug\Joke-rust.exe: C:\Users\acer\OneDrive\เอกสาร\GitHub\DOSE-Rust-Arduino-ML-Back-end\joke-rust\src\main.rs
+D:\Github\DOSE-Rust\Joke-rust\target\debug\Joke-rust.exe: D:\Github\DOSE-Rust\Joke-rust\src\main.rs
