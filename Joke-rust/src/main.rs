@@ -5,6 +5,7 @@ fn main() {
     input_str();
     Sec_str();
 }
+
 fn dose() {
     let mut x = 0;
     loop {
